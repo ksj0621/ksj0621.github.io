@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "선택과 집중을 못하는 사람의 개발 일지"
+title                    : "선택과 집중을 못하는 사람의 개발 일"
 title_separator          : "-"
 subtitle                 : "비전공자에 비개발자인"
 name                     : "김수진(Kim Sujin)"
