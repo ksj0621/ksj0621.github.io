@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "선택과 집중을 못하는 사람의 개발 일"
+title                    : "선택과 집중을 못하는 사람의 개발 일지"
 title_separator          : "-"
 subtitle                 : "비전공자에 비개발자인"
 name                     : "김수진(Kim Sujin)"
@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ksj0621/ksj0621.github.io.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "선택과 집중이 하기 싫은 사람의 개발 일지지"
+masthead_title           : "선택과 집중이 하기 싫은 사람의 개발 일지"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
